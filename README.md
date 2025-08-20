@@ -81,7 +81,7 @@ The project includes:
 ------------------------------------------------------------
 ✅ Single Review  
 Input:  
-   "I loved this car rental service, it was smooth and easy!"  
+   "great tool generating content quickly interesting evening population claim"  
 Output:  
    Positive 🎉  
 
